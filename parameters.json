@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "profiles_idinfocdn_name": {
+            "value": null
+        },
+        "sites_idinfobackend_name": {
+            "value": null
+        },
+        "profiles_infoservice_name": {
+            "value": null
+        },
+        "sites_idinfofrontend_name": {
+            "value": null
+        },
+        "servers_idinfodb_name": {
+            "value": null
+        },
+        "sites_greetingmessenger_name": {
+            "value": null
+        },
+        "virtualNetworks_idinfo_name": {
+            "value": null
+        },
+        "publicIPAddresses_idinfo_name": {
+            "value": null
+        },
+        "components_idinfofrontend_name": {
+            "value": null
+        },
+        "frontdoors_idinfofrontdoor_name": {
+            "value": null
+        },
+        "components_greetingmessenger_name": {
+            "value": null
+        },
+        "azureFirewalls_idinfofirewall_name": {
+            "value": null
+        },
+        "serverfarms_ASP_IDInfoApplication_be18_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountidinfb900_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___idinfofrontend_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___greetingmessenger_name": {
+            "value": null
+        }
+    }
+}
